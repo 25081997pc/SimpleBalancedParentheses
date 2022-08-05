@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\bin\Debug\net6.0\SimpleBalancedParentheses.exe
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\bin\Debug\net6.0\SimpleBalancedParentheses.deps.json
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\bin\Debug\net6.0\SimpleBalancedParentheses.runtimeconfig.json
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\bin\Debug\net6.0\SimpleBalancedParentheses.dll
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\bin\Debug\net6.0\SimpleBalancedParentheses.pdb
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\SimpleBalancedParentheses.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\SimpleBalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\SimpleBalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\SimpleBalancedParentheses.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\SimpleBalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\SimpleBalancedParentheses.dll
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\refint\SimpleBalancedParentheses.dll
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\SimpleBalancedParentheses.pdb
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\SimpleBalancedParentheses.genruntimeconfig.cache
+C:\Users\DELL\source\repos\SimpleBalancedParentheses\SimpleBalancedParentheses\obj\Debug\net6.0\ref\SimpleBalancedParentheses.dll
